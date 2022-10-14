@@ -9,7 +9,13 @@ public class Test {
 		while(true)
 		{
 		Scanner sc=new Scanner(System.in);
-		
+<<<<<<< Updated upstream
+		//Bug 132
+		System.out.println("Bug-132")
+=======
+		//Bug-131
+		System.out.println("bug-131")
+>>>>>>> Stashed changes
 		
 		System.out.println("Enter 1 for Account creation");
 		System.out.println("Enter 2 for Display your details");
