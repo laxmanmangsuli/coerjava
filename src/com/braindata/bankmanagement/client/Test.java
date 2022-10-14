@@ -13,7 +13,7 @@ public class Test {
 		
 		System.out.println("Enter 1 for Account creation");
 		System.out.println("Enter 2 for Display your details");
-		System.out.println("Enter 3 for deposit money");
+		System.out.println("Enterr 3 for deposit money");
 		System.out.println("Enter 4 for Withdrawal");
 		System.out.println("Enter 5 for balance check");
 		System.out.println("Enter 0 for exit");
