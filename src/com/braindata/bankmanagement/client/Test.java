@@ -9,6 +9,8 @@ public class Test {
 		while(true)
 		{
 		Scanner sc=new Scanner(System.in);
+		//Bug 132
+		System.out.println("Bug-132")
 
 		
 		System.out.println("Enter 1 for Account creation");
